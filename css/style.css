@@ -1,0 +1,140 @@
+html {
+  background-color: #000;
+  color: #fff;
+}
+
+.container {
+  position: relative;
+  margin: 25px auto;
+  max-width: 1100px;
+}
+.bold {
+  font-weight: bold;
+  color: #e2e;
+}
+
+.bold-2 {
+  font-weight: bold;
+  color: rgb(141, 30, 192);
+}
+/* Header */
+.header {
+  text-align: center;
+}
+
+.main-title {
+  color: rgba(226, 0, 151, 1);
+  font-size: 40px;
+}
+
+.main-paragraph {
+  font-family: 'Franklin Gothic Medium';
+  font-size: 15px;
+}
+
+/* Imagem */
+.featured-image {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Biography */
+.biography-container {
+  padding: 25px auto;
+  margin: 25px auto;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+
+.biography-container p {
+  font-family: 'Franklin Gothic Medium';
+}
+
+/* Quotes */
+.quotes-container {
+  background-color: rgb(209, 6, 125);
+  text-align: center;
+  padding: 20px;
+}
+
+.quotes-container {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.quotes-container p {
+  font-style: inherit;
+}
+
+/* Curiosities */
+.curiosities-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+
+.curiosities-container li {
+  font-family: 'franklin gothic medium';
+}
+/* header */
+
+.main-title-2 {
+  color: rgb(141, 30, 192);
+  font-size: 40px;
+}
+
+.main-paragraph-2 {
+  font-family: 'Franklin Gothic Medium';
+  font-size: 15px;
+}
+
+/* Img-2 */
+.img-bold {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Biography */
+.biography-container-2 {
+  padding: 25px auto;
+  margin: 25px auto;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+
+.biography-container-2 p {
+  font-family: 'franklin gothic medium';
+}
+/* quotes */
+.quotes-container-2 {
+  background-color: rgb(141, 30, 192);
+  text-align: center;
+  padding: 20px;
+}
+
+.quotes-container-2 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.quotes-container-2 p {
+  font-size: 20px;
+}
+
+/* Curiosities */
+.curiosities-container-2 {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+
+.curiosities-container-2 li {
+  font-family: 'franklin gothic medium';
+}
+
+/* more info */
+p {
+  font-family: 'franklin gothic medium';
+}
